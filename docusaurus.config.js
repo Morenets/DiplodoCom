@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Morenets', // Usually your GitHub org/user name.
-  projectName: 'DiploDoc', // Usually your repo name.
+  projectName: 'DiplodoCom', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
