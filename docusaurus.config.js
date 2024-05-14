@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Капібари у воді',
-  tagline: 'Капібари ар кул',
+  tagline: 'Капібари are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
